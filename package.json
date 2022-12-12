@@ -20,6 +20,8 @@
   "scripts": {
     "test": "jest --coverage",
     "test:watch": "jest --watch",
-    "test-5": "jest src/06-getMaxGifts"
+    "test-5": "jest src/05-getMaxGifts",
+    "test-6": "jest src/06-createCube",
+    "test-7": "jest src/07-getGiftsToRefill"
   }
 }
